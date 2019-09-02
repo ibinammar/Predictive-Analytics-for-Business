@@ -1,4 +1,4 @@
 # Predictive-Analytics-for-Business
 
 
-![picture] /Predictive-Analytics-for-Business/PAND.jpg 
+![picture] https://github.com/ibinammar/Predictive-Analytics-for-Business/blob/master/PAND.jpg
